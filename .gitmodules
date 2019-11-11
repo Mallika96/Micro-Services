@@ -1,3 +1,6 @@
 [submodule "Microserv_ConfigCloud"]
 	path = Microserv_ConfigCloud
 	url = https://github.com/raginirai259/Microservice_CloudConfig.git
+[submodule "ConfigCloud"]
+	path = ConfigCloud
+	url = https://github.com/raginirai259/Microserv_ConfigCloud.git
