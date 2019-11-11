@@ -4,3 +4,6 @@
 [submodule "ConfigCloud"]
 	path = ConfigCloud
 	url = https://github.com/raginirai259/Microserv_ConfigCloud.git
+[submodule "ServiceDiscovery"]
+	path = ServiceDiscovery
+	url = https://github.com/raginirai259/ServiceDiscovery.git
