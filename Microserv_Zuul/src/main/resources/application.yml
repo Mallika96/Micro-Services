@@ -1,0 +1,15 @@
+client:
+  clientId: e7f0c5d580cf75caec3f
+  clientSecret: 6d702a5da8b17b79ea85aff67f59bc98482977aa
+  accessTokenUri: https://github.com/login/oauth/access_token
+  userAuthorizationUri: https://github.com/login/oauth/authorize
+  clientAuthenticationScheme: form
+  
+  
+resource:
+  userInfoUri: https://api.github.com/v3/user
+  preferTokenInfo: false
+
+  
+server:
+  port: 3333
